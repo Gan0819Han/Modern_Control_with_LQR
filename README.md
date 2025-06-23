@@ -53,23 +53,9 @@
 ## 📂 文件结构
 ```plaintext
 Modern_Control_with_LQR/
-├── core/                        # 核心控制器实现
-│   ├── lqr_design.m             # LQR控制器设计函数
-│   └── stability_analysis.m     # 李雅普诺夫稳定性分析
-├── examples/                    # 应用示例
-│   ├── inverted_pendulum_lqr.m  # 倒立摆控制
-│   ├── drone_altitude_control.m # 无人机高度控制
-│   └── mass_spring_damper/      # 质量-弹簧-阻尼系统
-│       ├── lqr_control.m        # LQR控制实现
-│       └── pid_control.m        # PID控制实现（对比）
-├── utils/                       # 实用工具函数
-│   ├── plot_results.m           # 结果可视化
-│   ├── system_identification.m  # 系统辨识工具
-│   └── performance_metrics.m    # 性能指标计算
-├── docs/                        # 文档资源
-│   ├── theory_background.pdf    # 理论基础
-│   └── parameter_guide.md       # 参数调整指南
-└── README.md                    # 项目说明文件
+├── code/
+├── src/
+├── paper
 ```
 
 ## 📝 理论背景
