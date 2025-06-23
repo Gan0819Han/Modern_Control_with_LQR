@@ -1,4 +1,3 @@
-<MARKDOWN>
 # Modern Control with LQR
 本项目包含使用线性二次调节器(LQR)控制各种系统的MATLAB实现。LQR是一种最优控制方法，能够在给定性能指标下提供最佳控制效果。
 ## 项目特点
