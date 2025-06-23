@@ -25,7 +25,7 @@
 ## 🚀 快速开始
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/Modern_Control_with_LQR.git
+   git clone https://github.com/Gan0819Han/Modern_Control_with_LQR.git
    ```
 2. 启动MATLAB并导航至项目目录：
    ```matlab
